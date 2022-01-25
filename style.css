@@ -8,6 +8,7 @@ body {
   min-height: 100vh;
   font-family: Barlow, sans-serif;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background: rgb(37, 37, 37);
